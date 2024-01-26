@@ -1,0 +1,2 @@
+from src.components.visualization.compare_prediction import compare_prediction
+from src.components.visualization.feature_importance import plot_feature_importance

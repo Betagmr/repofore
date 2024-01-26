@@ -1,0 +1,1 @@
+from src.components.metrics.mean_abs_per_error import mean_absolute_percentage_error
